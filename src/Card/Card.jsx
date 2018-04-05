@@ -9,7 +9,7 @@ const Card = (props) => (
      </div>
      <div className="back">
        <div className="ned">{props.ned}</div>
-       <div className="hol">{props.hol}</div>
+       <div className="rom">{props.rom}</div>
      </div>
   </div>
 </div>

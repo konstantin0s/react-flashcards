@@ -3,37 +3,38 @@ import Card from './Card/Card';
 import DrawButton from './DrawButton/DrawButton';
 import './App.css';
 import { DB_CONFIG } from './Config/Firebase/db_config';
+import firebase from 'firebase/app';
+import 'firebase/database';
 
 class App extends Component {
 
 constructor(props){
   super(props);
 
+ this.app = firebase.initializeApp(DB_CONFIG);
+ this.database = this.app.database().ref().child('cards');
   this.updateCard = this.updateCard.bind(this);
 
   this.state = {
-    cards: [
-      {id: 1, eng: "English", ned: "Netherlands", hol: "Dutch"},
-      {id: 2, eng: "English_2", ned: "Netherlands_2", hol: "Dutch_2"},
-      {id: 1, eng: "English3", ned: "Netherlands3", hol: "Dutch3"},
-      {id: 2, eng: "English_4", ned: "Netherlands_4", hol: "Dutch_4"},
-      {id: 1, eng: "English5", ned: "Netherlands5", hol: "Dutch5"},
-      {id: 2, eng: "English_6", ned: "Netherlands_6", hol: "Dutch_6"},
-      {id: 1, eng: "English7", ned: "Netherlands7", hol: "Dutch7"},
-      {id: 2, eng: "English_8", ned: "Netherlands_8", hol: "Dutch_8"}
-    ],
-    currentCard: {
-
-    }
+    cards: [],
+    currentCard: {}
   }
 }
 
   componentWillMount(){
     const currentCards = this.state.cards;
-
-    this.setState({
-      cards: currentCards,
-      currentCard: this.getRandomCard(currentCards)
+    this.database.on('child_added', snap => {
+      currentCards.push({
+        id: snap.key,
+        eng: snap.val().eng,
+        ned: snap.val().ned,
+        rom: snap.val().rom,
+      })
+      
+      this.setState({
+        cards: currentCards,
+        currentCard: this.getRandomCard(currentCards)
+      })
     })
   }
 
@@ -55,7 +56,7 @@ updateCard(){
          <div className="cardRow">
         <Card eng={this.state.currentCard.eng}
               ned={this.state.currentCard.ned}
-              hol={this.state.currentCard.hol}
+              rom={this.state.currentCard.rom}
               />
          </div>
            <div className="buttonRow">

@@ -1,7 +1,7 @@
 export const DB_CONFIG = {
 
 
-  // Initialize Firebase
+
 
     apiKey: "AIzaSyAhQbUg3TqHTO4tNDvEF93iE7K5bcytx1g",
     authDomain: "react-flashcards-4dabe.firebaseapp.com",
