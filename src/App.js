@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Card from './Card/Card';
 import DrawButton from './DrawButton/DrawButton';
 import './App.css';
+import { DB_CONFIG } from './Config/Firebase/db_config';
 
 class App extends Component {
 
