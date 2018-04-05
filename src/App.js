@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Card from './Card/Card';
+// import DrawButton from './DrawButton/DrawButton';
 import './App.css';
 
 class App extends Component {
@@ -37,10 +38,15 @@ getRandomCard(currentCards){
   render() {
     return (
       <div className="App">
+         <div className="cardRow">
         <Card eng={this.state.currentCard.eng}
               ned={this.state.currentCard.ned}
               hol={this.state.currentCard.hol}
               />
+         </div>
+           <div className="buttonRow">
+            <DrawButton />
+            </div>
       </div>
     );
   }
