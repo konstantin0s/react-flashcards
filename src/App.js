@@ -3,6 +3,36 @@ import Card from './Card/Card';
 import './App.css';
 
 class App extends Component {
+
+constructor(props){
+  super(props);
+
+  this.state = {
+    cards: [
+      {id: 1, eng: "English", ned: "Netherlands", hol: "Dutch"},
+      {id: 2, eng: "English_2", ned: "Netherlands_2", hol: "Dutch_2"}
+    ],
+    currentCard: {
+
+    }
+  }
+}
+
+  componentWillMount(){
+    const currentCards = this.state.cards;
+
+    this.setState({
+      cards: currentCards,
+      currentCard: this.getRandomCard(currentCards)
+    })
+  }
+
+getRandomCard(currentCards){
+  var card = currentCards[Math.floor(Math.random() * currentCards.length)]
+}
+
+
+
   render() {
     return (
       <div className="App">
