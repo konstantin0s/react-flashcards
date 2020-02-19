@@ -1,55 +1,6 @@
 {
   "cards": [
   {
-      "id": 1,
-      "eng": "English",
-      "ned": "Englese",
-      "rom": "Engleza"
-  },
-
-  {
-      "id": 2,
-      "eng": "me",
-      "ned": "ik",
-      "rom": "eu"
-  },
-  {
-    "id": 3,
-    "eng": "beautiful",
-    "ned": "moi",
-      "rom": "frumos"
-  },
-  {
-    "id": 4,
-     "eng": "not",
-     "ned": "niet",
-    "rom": "nu"
-  },
-  {
-    "id": 5,
-     "eng": "girl",
-     "ned": "meisje",
-    "rom": "fata"
-  },
-  {
-    "id": 6,
-     "eng": "children",
-     "ned": "kinderen",
-     "rom": "copii"
-  },
-  {
-    "id": 7,
-     "eng": "perfect",
-     "ned": "top",
-     "rom": "perfect"
-  },
-  {
-    "id": 8,
-     "eng": "today",
-     "ned": "vandag",
-     "rom": "azi"
-  },
-  {
     "id": 9,
      "eng": "for example",
      "ned": "bijvoorbeeld",
