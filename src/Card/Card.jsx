@@ -10,6 +10,7 @@ const Card = (props) => (
      <div className="back">
        <div className="ned">{props.ned}</div>
        <div className="rom">{props.rom}</div>
+         <div className="phrase">{props.phrase}</div>
      </div>
   </div>
 </div>

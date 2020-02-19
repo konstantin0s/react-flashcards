@@ -6,6 +6,10 @@
 # testing
 /coverage
 
+db_config
+
+/Config/Firebase/db_config
+
 # production
 /build
 

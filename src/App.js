@@ -29,6 +29,7 @@ constructor(props){
         eng: snap.val().eng,
         ned: snap.val().ned,
         rom: snap.val().rom,
+        phrase: snap.val().phrase
       })
       
       this.setState({
@@ -57,6 +58,7 @@ updateCard(){
         <Card eng={this.state.currentCard.eng}
               ned={this.state.currentCard.ned}
               rom={this.state.currentCard.rom}
+              phrase={this.state.currentCard.phrase}
               />
          </div>
            <div className="buttonRow">

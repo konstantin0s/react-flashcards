@@ -48,6 +48,357 @@
      "eng": "today",
      "ned": "vandag",
      "rom": "azi"
+  },
+  {
+    "id": 9,
+     "eng": "for example",
+     "ned": "bijvoorbeeld",
+     "rom": "de exemplu",
+     "phrase": "Dit is bijvoorbeeld een echt 17de eeuws huis"
+  },
+  {
+    "id": 10,
+     "eng": "while",
+     "ned": "terwijl",
+     "rom": "in timp ce",
+     "phrase": "Hij doet de afwas terwijl hij belt"
+  },
+  {
+    "id": 11,
+     "eng": "to camp",
+     "ned": "kamperen",
+     "rom": "camp",
+     "phrase": "Elk jaar gaan we in de zomer kamperen"
+  },
+  {
+    "id": 12,
+     "eng": "to drink",
+     "ned": "drinken",
+     "rom": "a bea",
+     "phrase": "Ik vind het heerlijk om hete thee te drinken op een koude dag"
+  },
+  {
+    "id": 13,
+     "eng": "to have",
+     "ned": "hebben",
+     "rom": "a avea",
+     "phrase": "Ik heb zojuist een hamburger besteld"
+  },
+  {
+    "id": 14,
+     "eng": "tasty, delicious",
+     "ned": "lekker",
+     "rom": "delicios",
+     "phrase": "Chocoladetaart is erg lekker"
+  },
+  {
+    "id": 15,
+     "eng": "to go",
+     "ned": "gaan",
+     "rom": "a pleca",
+     "phrase": "Waar gaan we heen vandaag?"
+  },
+  {
+    "id": 16,
+     "eng": "anything",
+     "ned": "iets",
+     "rom": "orice",
+     "phrase": "De titel van een boek zegt iets over het boek zelf"
+  },
+
+  {
+    "id": 17,
+     "eng": "else",
+     "ned": "anders",
+     "rom": "altceva",
+     "phrase": "Iets anders?"
+  },
+
+  {
+    "id": 18,
+     "eng": "problem",
+     "ned": "probleem",
+     "rom": "problema",
+     "phrase": "makkelijk probleem"
+  },
+
+  {
+    "id": 19,
+     "eng": "film",
+     "ned": "film",
+     "rom": "film",
+     "phrase": "We gaan morgen naar de film."
+  },
+  {
+    "id": 20,
+     "eng": "what",
+     "ned": "wat",
+     "rom": "film",
+     "phrase": "Waar heb je het over?"
+  },
+  {
+    "id": 21,
+     "eng": "paper",
+     "ned": "papier",
+     "rom": "hartie",
+     "phrase": "vel papier"
+  },
+  {
+    "id": 22,
+     "eng": "flower",
+     "ned": "bloem",
+     "rom": "floare",
+     "phrase": "Zij kreeg een mooie gele bloem"
+  },
+
+  {
+    "id": 23,
+     "eng": "delicious",
+     "ned": "heerlijk",
+     "rom": "delicios",
+     "phrase": "heerlijke pizza"
+  },
+
+  {
+    "id": 24,
+     "eng": "to eat",
+     "ned": "eten",
+     "rom": "delicios",
+     "phrase": "We horen tenminste drie keer per dag te eten."
+  },
+  {
+    "id": 25,
+     "eng": "can",
+     "ned": "kunnen",
+     "rom": "delicios",
+     "phrase": "Kun je dat raam alstublieft dichtdoen?"
+  },
+  {
+    "id": 26,
+     "eng": "first",
+     "ned": "eerste",
+     "rom": "prima",
+     "phrase": "Wie het eerst komt, wie het eerst maalt."
+  },
+  {
+    "id": 27,
+     "eng": "to study",
+     "ned": "studeren",
+     "rom": "a studia",
+     "phrase": "Ik studeer aan de UVA"
+  },
+  {
+    "id": 28,
+     "eng": "colleague",
+     "ned": "collega",
+     "rom": "a studia",
+     "phrase": "Mijn collega’s zijn mijn vrienden geworden"
+  },
+  {
+    "id": 29,
+     "eng": "to open",
+     "ned": "openen",
+     "rom": "deschis",
+     "phrase": "Er is gister een nieuw restaurant geopend"
+  },
+  {
+    "id": 30,
+     "eng": "shall",
+     "ned": "zullen",
+     "rom": "sa",
+     "phrase": "Denk je dat de mensen op een dag de maan zullen koloniseren?"
+  },
+  {
+    "id": 31,
+     "eng": "as, if",
+     "ned": "als",
+     "rom": "precum",
+     "phrase": "empty"
+  },
+  {
+    "id": 32,
+     "eng": "vegetarian",
+     "ned": "vegetarier",
+     "rom": "vegetarian",
+     "phrase": "Hij is vegetariër geworden sinds zijn reizen naar Azië."
+  },
+  {
+    "id": 33,
+     "eng": "cozy, comfortable",
+     "ned": "gezellig",
+     "rom": "relax",
+     "phrase": "Dit is zo'n gezellig huisje!"
+  },
+  {
+    "id": 34,
+     "eng": "to swim",
+     "ned": "zwemmen",
+     "rom": "a innota",
+     "phrase": "De zwaan zwemt in het meer"
+  },
+  {
+    "id": 35,
+     "eng": "must, should",
+     "ned": "moeten",
+     "rom": "neaparat",
+     "phrase": "We moeten allemaal elke kans waarnemen die we tegen komen"
+  },
+  {
+    "id": 36,
+     "eng": "to stay",
+     "ned": "zwemmen",
+     "rom": "a sta",
+     "phrase": "Ze blijft nooit lang op een plek"
+  },
+  {
+    "id": 37,
+     "eng": "everyone",
+     "ned": "iedereen",
+     "rom": "oricine",
+     "phrase": "empty"
+  },
+  {
+    "id": 38,
+     "eng": "but",
+     "ned": "maar",
+     "rom": "oricine",
+     "phrase": "Ik ben slaperig maar ik moet dit rapport vanavond afmaken"
+  },
+  {
+    "id": 39,
+     "eng": "to reserver",
+     "ned": "reserveren",
+     "rom": "a rezerva",
+     "phrase": "Als we korting willen hebben moeten we de aula twee maanden van te voren reserveren"
+  },
+  {
+    "id": 40,
+     "eng": "how much",
+     "ned": "hoeveel?",
+     "rom": "cate",
+     "phrase": "Hoeveel boeken neem je mee naar school?"
+  },
+  {
+    "id": 41,
+     "eng": "to pay",
+     "ned": "betalen",
+     "rom": "a plati",
+     "phrase": "empty"
+  },
+  {
+    "id": 42,
+     "eng": "to find",
+     "ned": "vinden",
+     "rom": "a gasi",
+     "phrase": "Was je in staat om de weg terug te vinden naar het gymnasium?"
+  },
+  {
+    "id": 43,
+     "eng": "free",
+     "ned": "vrij",
+     "rom": "liber",
+     "phrase": "Wanneer hebben jullie een vrije dag?"
+  },
+  {
+    "id": 44,
+     "eng": "always",
+     "ned": "altijd",
+     "rom": "oricand",
+     "phrase": "Ik ga altijd om zes (6) uur in bad"
+  },
+  {
+    "id": 45,
+     "eng": "to mean",
+     "ned": "bedoelen",
+     "rom": "oricand",
+     "phrase": "Soms zijn dingen precies zoals ze bedoeld zijn, niet alles is bedoeld om iets anders te symboliseren"
+  },
+  {
+    "id": 46,
+     "eng": "other",
+     "ned": "andere",
+     "rom": "alte",
+     "phrase": "Hij overweegt om te verhuizen naar een andere stad"
+  },
+  {
+    "id": 47,
+     "eng": "to tell",
+     "ned": "vertellen",
+     "rom": "a spune",
+     "phrase": "Een verhaal in de vorm van een allegorie vertellen is een zeer creatieve manier om je punt over te brengen."
+  },
+  {
+    "id": 48,
+     "eng": "to share",
+     "ned": "delen",
+     "rom": "alte",
+     "phrase": "We kunnen mijn paraplu delen"
+  },
+  {
+    "id": 49,
+     "eng": "cheap",
+     "ned": "goedkoop",
+     "rom": "ieftin",
+     "phrase": "Deze koekenpan is erg goedkoop"
+  },
+  {
+    "id": 50,
+     "eng": "dark",
+     "ned": "donker",
+     "rom": "negru",
+     "phrase": "Het is er 's nachts erg donker"
+  },
+  {
+    "id": 50,
+     "eng": "heavy",
+     "ned": "zwaar",
+     "rom": "greu",
+     "phrase": "zware materialen"
+  },
+  {
+    "id": 51,
+     "eng": "summer",
+     "ned": "zomer",
+     "rom": "vara",
+     "phrase": "We hebben de zomer van dit jaar doorgebracht op een resort hier vlakbij."
+  },
+  {
+    "id": 52,
+     "eng": "serious",
+     "ned": "serieus",
+     "rom": "serios",
+     "phrase": "serieus persoon"
+  },
+  {
+    "id": 53,
+     "eng": "cold",
+     "ned": "koud",
+     "rom": "rece",
+     "phrase": "Het water van de Noordzee is koud"
+  },
+  {
+    "id": 54,
+     "eng": "who",
+     "ned": "wie",
+     "rom": "cine",
+     "phrase": "met wie"
+  },
+  {
+    "id": 55,
+     "eng": "sick",
+     "ned": "ziek",
+     "rom": "bolnav",
+     "phrase": "ziek worden van de griep"
+  },
+  {
+    "id": 56,
+     "eng": "vacation",
+     "ned": "vakantie",
+     "rom": "vacanta",
+     "phrase": "Het is noodzakelijk om tijdens mijn zomervakantie een baan te vinden"
   }
+
+
+
 ]
 }
