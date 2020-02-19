@@ -1,8 +1,5 @@
 export const DB_CONFIG = {
 
-
-
-
     apiKey: "AIzaSyAhQbUg3TqHTO4tNDvEF93iE7K5bcytx1g",
     authDomain: "react-flashcards-4dabe.firebaseapp.com",
     databaseURL: "https://react-flashcards-4dabe.firebaseio.com",

@@ -51,7 +51,7 @@ body{
 
 .ned{
   color: #333;
-  font-size: 6.3em;
+  font-size: 4.3em;
   padding-top: 20%;
 }
 
@@ -60,3 +60,12 @@ body{
     font-size: 2.3em;
     padding-top: 10%;
 }
+
+.phrase{
+  color: rgb(44, 22, 22);
+  font-size: 1.5em;
+  padding-top: 10%;
+}
+
+
+
